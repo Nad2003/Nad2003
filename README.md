@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nadeem.
-- 👀 I’m interested in ...learnig programming language. And much more. 
+- 👀 I’m interested in ...learning programming language. And much more. 
 - 🌱 I’m currently learning ...java.D.B.M.S C.D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
